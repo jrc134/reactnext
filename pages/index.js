@@ -4,9 +4,8 @@ import styles from '../styles/Home.module.css'
 
 export default function Home() {
   return (
-    <div>
-      <h1>Hello</h1>
+    <div className={styles.container}>
+      <h1>Hello, Welcome to my website!</h1>
     </div>
-  
   )
 }
