@@ -7,7 +7,7 @@ const Border = () => {
   return(
     <Wrapper>
     <Title>
-      Hello World!
+      Main Title
     </Title>
   </Wrapper>
   );
