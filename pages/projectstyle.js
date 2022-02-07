@@ -12,8 +12,8 @@ export const Title = styled.section`
 
 export const Wrapper = styled.section`
   padding: 4em;
-  background: papayawhip;
-  width: 50%;
+  background: black;
+  width: 90%;
   margin: auto;
   @media (min-width: 320px) {
     padding: 2em;
